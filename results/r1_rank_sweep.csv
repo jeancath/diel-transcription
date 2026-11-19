@@ -1,0 +1,10 @@
+set,top_frac,lineages,shared_KOs,rhythmic_in_all,expected_if_independent,obs_over_exp,rhythmic_in_ge_k_minus_1,expected_ge_k_minus_1
+5 lineages,0.1,5,331,0,0.0,0.0,0,0.06
+5 lineages,0.25,5,331,0,0.22,0.0,5,3.88
+5 lineages,0.5,5,331,14,8.87,1.58,65,56.18
+no Prochlorococcus,0.1,4,441,0,0.02,0.0,2,1.07
+no Prochlorococcus,0.25,4,441,1,1.56,0.64,28,20.98
+no Prochlorococcus,0.5,4,441,35,28.07,1.25,149,139.57
+within-strain (7942 x2),0.1,2,1233,66,12.47,5.29,182,235.53
+within-strain (7942 x2),0.25,2,1233,175,77.94,2.25,445,542.06
+within-strain (7942 x2),0.5,2,1233,421,309.75,1.36,815,926.25

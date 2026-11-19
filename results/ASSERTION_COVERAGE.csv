@@ -1,0 +1,34 @@
+assertion,category,validation,covered_by_mutation,injected_error,covered,action
+clock-gene label matches its KEGG KO in every row,critical: biological identity,targeted mutation test,kaiB and kaiC labels swapped against their KOs,swap_kaib_kaic,True,
+"kaiB and kaiC are different genes, not the same row repeated",critical: biological identity,targeted mutation test,kaiB and kaiC given identical values,identical_kaib_kaic,True,
+every analysed arm appears in the dataset registry,critical: biological identity,targeted mutation test,an analysed arm dropped from the dataset registry,drop_an_arm,True,
+"GEO series count is derived, not asserted",structural / documentation,review only,,,False,documented review may suffice
+arms outnumber series only because of split arms,structural / documentation,review only,,,False,documented review may suffice
+every GEO accession resolves to a downloaded series matrix,critical: biological identity,targeted mutation test,a GEO accession that resolves to nothing,break_accession,True,
+accession identifiers are well-formed,critical: biological identity,targeted mutation test,a GEO accession that resolves to nothing,break_accession,True,
+each downloaded matrix declares the accession it was filed under,critical: biological identity,targeted mutation test,a GEO accession that resolves to nothing,break_accession,True,
+reported RBH range excludes the same-genome identity case,critical: statistical claim,review only,,,False,add a targeted mutation test
+"all fitted phases lie in [0, 24)",critical: statistical claim,targeted mutation test,"a fitted phase outside [0, 24)",phase_out_of_range,True,
+"all q values lie in [0, 1]",critical: statistical claim,targeted mutation test,"a q value outside [0, 1]",q_out_of_range,True,
+kaiABC-null control yields no rhythmic genes at q<0.05,critical: statistical claim,targeted mutation test,the kaiABC-null control reporting rhythmic genes,kainull_rhythmic,True,
+manuscript avoids claims stronger than the results support,critical: statistical claim,targeted mutation test,a manuscript claim stronger than the results support,overclaim,True,
+manuscript distinguishes diel expression from circadian regulation,critical: statistical claim,targeted mutation test,diel and circadian regulation collapsed into one term,drop_circadian_regulation_term,True,
+manuscript states the Ferrari simulation is design-matched only,critical: statistical claim,targeted mutation test,the design-matched label stripped,drop_design_matched_label,True,
+manuscript makes no claim wider than the design supports,critical: statistical claim,targeted mutation test,a claim wider than the design inserted,insert_wide_claim,True,
+manuscript carries the qualifications its claims require,critical: statistical claim,targeted mutation test,a required qualification removed,drop_required_qualification,True,
+the BRITE assignment rule is declared as fixed in advance,critical: statistical claim,targeted mutation test,the BRITE rule no longer declared as fixed in advance,unfixed_brite_rule,True,
+the manuscript states neither BRITE rule was chosen by its outcome,critical: statistical claim,targeted mutation test,the BRITE outcome-neutrality statement removed,drop_brite_outcome_statement,True,
+rendered manuscript contains no unresolved template placeholder,structural / documentation,targeted mutation test,template residue in the rendered manuscript,template_residue,True,
+every raw input present is declared by fetch_data.py,structural / documentation,review only,,,False,documented review may suffice
+no tracked file is a symlink outside the repository,structural / documentation,review only,,,False,documented review may suffice
+symlink portability check could run,low impact: meta-check,review only,,,False,review accepted
+every results file has a producing script in src/,structural / documentation,targeted mutation test,a results file no script produces,orphan_result,True,
+every producing target is reachable from `make all`,structural / documentation,review only,,,False,documented review may suffice
+3.9 states the candidate set's enrichment is not established,critical: statistical claim,targeted mutation test,3.9's exploratory-only sentence removed,drop_39_exploratory,True,
+"stratification is framed as sensitivity, not absence of similarity",critical: statistical claim,targeted mutation test,3.8's sensitivity-not-absence sentence removed,drop_strat_sensitivity,True,
+the diel versus endogenous circadian scope limit is stated,critical: statistical claim,targeted mutation test,the diel/circadian scope limit removed,drop_circadian_scope,True,
+"the Abstract states the study is exploratory, with no pre-registration",critical: statistical claim,targeted mutation test,the Abstract's exploratory statement removed,drop_abstract_exploratory,True,
+the Abstract states the diel versus endogenous circadian limit,critical: statistical claim,targeted mutation test,the Abstract's diel/circadian limit removed,drop_abstract_circadian_limit,True,
+3.9 reports no p value or fold enrichment for the candidate set,critical: statistical claim,targeted mutation test,a p value reinstated in 3.9,pvalue_in_39,True,
+every gene symbol named in 3.9 is a row of the core it describes,critical: biological identity,targeted mutation test,a gene symbol in 3.9 that is not in the core,wrong_core_gene,True,
+no top-level definition follows the __main__ block,structural / documentation,targeted mutation test,a function defined below its script's entrypoint,def_after_main,True,

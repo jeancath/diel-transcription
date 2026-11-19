@@ -1,0 +1,28 @@
+{
+  "output": "n14_power_surface.csv",
+  "script": "power_grid_full.py",
+  "cells_completed": 45,
+  "cells_failed": 0,
+  "cells_skipped": [],
+  "cells_expected": 45,
+  "key_columns": [
+    "n_orthologs",
+    "jitter_sd_h",
+    "true_conserved_frac"
+  ],
+  "config": {
+    "outer_trials": 400,
+    "inner_permutations": 400,
+    "seed": 23,
+    "seeding": "per-cell from (seed, n, jitter, frac_conserved)",
+    "phase_concentration": 0.6,
+    "window_h": 6.0,
+    "alpha": 0.05
+  },
+  "git_commit": "b9c978b6b64b56c2f11437d644a7e3b475cf4968",
+  "python": "3.13.18",
+  "numpy": "2.5.3",
+  "pandas": "3.0.5",
+  "platform": "Linux-6.18.44-fc-v653-x86_64-with-glibc2.39",
+  "wall_seconds": 3128.6
+}

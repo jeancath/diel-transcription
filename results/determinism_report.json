@@ -1,0 +1,12 @@
+{
+  "cells_compared": 8,
+  "cells_written_before_kill": 3,
+  "cells_recomputed_after_resume": 5,
+  "checkpoint_readable_after_sigkill": true,
+  "resumed_equals_uninterrupted": true,
+  "negative_control_shared_rng_differs": true,
+  "negative_control_differing_values": 25,
+  "grid": "three_nulls_fast.one_trial, n in (120, 200) x concentration in (0.0, 0.3, 0.6, 0.9), 25 outer x 40 inner",
+  "seed": 99,
+  "failures": []
+}

@@ -1,0 +1,3 @@
+min_rhythmic,cutoff_from,n_permutations,sd_cutoff_h,observed_below_cutoff,null_mean,null_p95,p,enrichment
+4,3,500,2.74,33,20.4,27,0.0,1.61
+3,3,500,2.74,48,41.9,51,0.132,1.14

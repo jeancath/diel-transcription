@@ -1,0 +1,6 @@
+a,b,rule,n,n_blocks,obs_mean_dphase,effect_gene,p_gene,nullsd_gene,effect_rotation,p_rotation,nullsd_rotation,effect_block,p_block,nullsd_block
+SE7942_ito_WT,SE7942_vijayan,both q<0.05,478,357,1.37,75.1,0.0,0.154,75.1,0.0,0.177,75.1,0.0,0.162
+SE7942_ito_WT,SYN6803,both q<0.05,144,135,4.93,11.2,0.003,0.201,11.1,0.008,0.226,11.1,0.007,0.209
+SE7942_ito_WT,TERY,both q<0.05,374,299,4.7,12.0,0.0,0.141,12.1,0.0,0.142,12.0,0.0,0.141
+SE7942_ito_WT,MED4,both q<0.05,472,358,3.79,3.2,0.013,0.052,3.1,0.029,0.058,3.1,0.02,0.059
+SE7942_ito_WT,NPUN,both q<0.05,336,261,4.85,9.9,0.002,0.187,10.0,0.001,0.175,9.9,0.003,0.194

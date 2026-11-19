@@ -1,0 +1,11 @@
+{
+  "title": "Code and data for: Within-strain reproducibility sets the scale for cross-species comparison of diel transcriptional programs",
+  "upload_type": "software",
+  "description": "Code, dataset registry, derived result tables, figures, power and null-calibration simulations, numerical provenance, semantic-assertion and mutation-test evidence, deviation log and closure report for a reanalysis of 7 public cyanobacterial diel transcriptome series (9 arms, 6 lineages, 4 platforms). The study calibrates cross-species comparison of diel transcriptional timing against an internal benchmark the field has lacked: two independent studies of the same strain. It is exploratory throughout; no pre-registration was frozen.",
+  "creators": [
+    {"name": "Fathy, Melad Naieem", "affiliation": "Independent researcher", "orcid": "0009-0002-4553-8894"}
+  ],
+  "license": "MIT",
+  "keywords": ["cyanobacteria", "diel transcriptional program", "circadian output", "cross-species comparison", "permutation null", "KEGG Orthology", "reciprocal best hits", "reproducibility"],
+  "access_right": "open"
+}

@@ -1,0 +1,16 @@
+a,b,n_orthologs,median_abs_dphase_h,obs_frac_within_3h,null_mean,null_p95,enrichment,p_perm,comparison
+SE7942_ito_WT,SYN6803,34,6.72,0.353,0.248,0.353,1.42,0.08975,cross-lineage
+SE7942_ito_WT,TERY,94,6.98,0.213,0.16,0.213,1.33,0.067,cross-lineage
+SE7942_ito_WT,MED4,39,13.63,0.154,0.11,0.179,1.4,0.18275,cross-lineage
+SE7942_ito_WT,NPUN,88,11.0,0.261,0.403,0.477,0.65,0.999,cross-lineage
+SE7942_ito_WT,SE7942_vijayan,175,1.75,0.88,0.384,0.44,2.29,0.0,WITHIN-STRAIN
+SYN6803,TERY,28,8.62,0.179,0.225,0.321,0.8,0.83975,cross-lineage
+SYN6803,MED4,17,10.34,0.412,0.303,0.353,1.36,0.034,cross-lineage
+SYN6803,NPUN,33,4.16,0.424,0.275,0.394,1.55,0.0185,cross-lineage
+SYN6803,SE7942_vijayan,37,5.32,0.432,0.208,0.324,2.08,0.0005,cross-lineage
+TERY,MED4,55,2.11,0.636,0.619,0.655,1.03,0.39975,cross-lineage
+TERY,NPUN,102,3.81,0.363,0.301,0.353,1.21,0.0395,cross-lineage
+TERY,SE7942_vijayan,81,6.72,0.259,0.185,0.247,1.4,0.04125,cross-lineage
+MED4,NPUN,78,3.23,0.423,0.442,0.5,0.96,0.78675,cross-lineage
+MED4,SE7942_vijayan,44,7.89,0.045,0.026,0.068,1.73,0.329,cross-lineage
+NPUN,SE7942_vijayan,88,8.56,0.159,0.184,0.239,0.86,0.8155,cross-lineage

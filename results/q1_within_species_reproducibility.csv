@@ -1,0 +1,12 @@
+metric,value
+genes compared (both studies),2490.0
+"rhythmic, Ito 2009 (LL, GPL8012)",1400.0
+"rhythmic, Vijayan 2009 (LL, GPL9534)",1324.0
+rhythmic in both,966.0
+expected overlap if independent,744.4
+Jaccard of rhythmic sets,0.549
+replication rate of Ito calls in Vijayan,0.69
+phase agreement within 2 h,0.609
+phase agreement within 4 h,0.938
+median |phase difference| (h),1.67
+circular SD of phase difference (h),1.85

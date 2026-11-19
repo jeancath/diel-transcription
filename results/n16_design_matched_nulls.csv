@@ -1,0 +1,23 @@
+design,n_timepoints,n_samples,null,outer_trials,inner_permutations,frac_in_6h_window,n_orthologs,FPR,FPR_ci95
+ours: MED4,12,36,marginal,300,1000,0.0,300,0.033,0.018-0.060
+ours: MED4,12,36,marginal,300,1000,0.6,300,0.033,0.018-0.060
+ours: NPUN,10,30,marginal,300,1000,0.0,300,0.06,0.038-0.093
+ours: NPUN,10,30,marginal,300,1000,0.6,300,0.033,0.018-0.060
+ours: SE7942_ito_WT,13,24,marginal,300,1000,0.0,300,0.043,0.025-0.073
+ours: SE7942_ito_WT,13,24,marginal,300,1000,0.6,300,0.04,0.023-0.069
+ours: SYN6803,24,24,marginal,300,1000,0.0,300,0.047,0.028-0.077
+ours: SYN6803,24,24,marginal,300,1000,0.6,300,0.063,0.041-0.097
+ours: TERY,9,27,marginal,300,1000,0.0,300,0.04,0.023-0.069
+ours: TERY,9,27,marginal,300,1000,0.6,300,0.047,0.028-0.077
+"F: 12 pts, 2 h, 1 day",12,12,timepoint,300,1000,0.0,300,0.01,0.003-0.029
+"F: 12 pts, 2 h, 1 day",12,12,timepoint,300,1000,0.4,300,0.177,0.138-0.224
+"F: 12 pts, 2 h, 1 day",12,12,timepoint,300,1000,0.6,300,0.433,0.378-0.490
+"F: 12 pts, 2 h, 1 day",12,12,timepoint,300,1000,0.9,300,0.547,0.490-0.602
+"F: 24 pts, 2 h, 2 days",24,24,timepoint,300,1000,0.0,300,0.02,0.009-0.043
+"F: 24 pts, 2 h, 2 days",24,24,timepoint,300,1000,0.4,300,0.207,0.165-0.256
+"F: 24 pts, 2 h, 2 days",24,24,timepoint,300,1000,0.6,300,0.503,0.447-0.560
+"F: 24 pts, 2 h, 2 days",24,24,timepoint,300,1000,0.9,300,0.907,0.868-0.935
+"F: 7 pts, 4 h (Arab/rice)",7,7,timepoint,300,1000,0.0,300,0.007,0.002-0.024
+"F: 7 pts, 4 h (Arab/rice)",7,7,timepoint,300,1000,0.4,300,0.107,0.077-0.147
+"F: 7 pts, 4 h (Arab/rice)",7,7,timepoint,300,1000,0.6,300,0.16,0.123-0.206
+"F: 7 pts, 4 h (Arab/rice)",7,7,timepoint,300,1000,0.9,300,0.087,0.060-0.124

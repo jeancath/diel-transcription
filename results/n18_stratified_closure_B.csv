@@ -1,0 +1,8 @@
+a,b,level,multi_rule,n_permutations,n,n_classes,largest,median_size,n_singleton_classes,n_in_classes_lt10,n_unclassified,all_free_effect,all_free_p,all_strat_effect,all_strat_p,all_n,big_classes_only_free_effect,big_classes_only_free_p,big_classes_only_strat_effect,big_classes_only_strat_p,big_classes_only_n
+SE7942_ito_WT,SE7942_vijayan,B,first,1000,480,28,62,11.5,6,48,0,75.0,0.0,71.9,0.0,480,74.7,0.0,72.1,0.0,432
+SE7942_ito_WT,SYN6803,B,first,1000,146,23,26,4.0,5,71,0,10.7,0.004,8.1,0.017,146,9.4,0.046,8.0,0.068,75
+SE7942_ito_WT,TERY,B,first,1000,376,27,52,9.0,5,57,0,12.3,0.0,11.0,0.0,376,11.4,0.001,10.2,0.0,319
+SE7942_ito_WT,MED4,B,first,1000,475,26,57,10.0,4,53,0,2.9,0.012,0.8,0.246,475,3.2,0.021,1.1,0.202,422
+SE7942_ito_WT,NPUN,B,first,1000,338,23,49,9.0,2,56,0,9.5,0.008,6.2,0.028,338,5.2,0.095,2.9,0.212,282
+TERY,NPUN,B,first,1000,375,24,46,11.0,1,56,0,7.0,0.007,6.6,0.002,375,5.8,0.019,4.7,0.031,319
+SYN6803,NPUN,B,first,1000,171,22,30,6.0,3,78,0,11.9,0.002,9.6,0.014,171,10.0,0.051,5.2,0.195,93

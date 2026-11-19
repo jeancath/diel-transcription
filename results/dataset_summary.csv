@@ -1,0 +1,10 @@
+dataset,lineage,gse,light,platform,role,n_samples,n_timepoints,n_genes,n_rhythmic,frac_rhythmic,n_ko_annotated,tau_fit,n_rhythmic_tau
+SE7942_ito_WT,S. elongatus,GSE14225,LL,array,test,24,13,2490,1400,0.5622,1372,24.0,1400
+SE7942_ito_KAINULL,S. elongatus (kai-null),GSE14225,LL,array,control,22,11,2490,0,0.0,1372,23.0,0
+SE7942_vijayan,S. elongatus (study 2),GSE18902,LL,array,replicate_study,16,16,2662,1398,0.5252,1399,24.5,1417
+SYN6803,Synechocystis,GSE79714,LD,array,test,24,24,2780,1890,0.6799,870,25.5,1965
+TERY,Trichodesmium,GSE99896,LD,array,test,27,9,4764,2846,0.5974,1615,24.5,2861
+MED4,Prochlorococcus,GSE314951,LD,rnaseq,test,36,12,1920,1888,0.9833,1052,24.5,1888
+NPUN,Nostoc,GSE275682,LD,rnaseq,test,30,10,6955,3933,0.5655,2163,23.5,3944
+HALO_05,Halothece 0.5M,GSE205640,LL,rnaseq,test,12,6,3843,32,0.0083,1721,28.0,168
+HALO_25,Halothece 2.5M,GSE205640,LL,rnaseq,test,12,6,3843,152,0.0396,1721,28.0,716

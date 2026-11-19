@@ -1,0 +1,16 @@
+{
+  "params": {
+    "gap_extend": 2,
+    "gap_open": 10,
+    "locus_bridge": "RefSeq GFF locus_tag, with old_locus_tag as fallback",
+    "max_alignments": 1,
+    "max_candidates": 30000,
+    "max_evalue": 1e-05,
+    "reciprocity": "forward best hit of a in b must have a as its best hit in a",
+    "scoring_matrix": "BLOSUM62 (pyswrd default)",
+    "sequence_source": "NCBI RefSeq protein FASTA per assembly",
+    "tie_rule": "first hit encountered wins; strictly greater score replaces",
+    "tool": "pyswrd (SWORD heuristic + Smith-Waterman)"
+  },
+  "proteomes": {}
+}

@@ -1,0 +1,9 @@
+query_id,query,date,records_retrieved,records_screened
+Q1 cyano comparative diel,"(cyanobacteri*[tiab]) AND (diel[tiab] OR diurnal[tiab] OR circadian[tiab]) AND (transcriptom*[tiab]) AND (compar*[tiab] OR ""across species""[tiab] OR interspecies[tiab] OR conserv*[tiab])",2026-11-19,15,15
+Q2 cyano rhythm meta-analysis,"(cyanobacteri*[tiab]) AND (circadian[tiab] OR diel[tiab]) AND (meta-analysis[tiab] OR reanalysis[tiab] OR ""re-analysis""[tiab])",2026-11-19,0,0
+Q3 clock output conservation,"(clock-controlled[tiab] OR ""circadian output""[tiab] OR ""clock output""[tiab]) AND cyanobacteri*[tiab] AND (conserv*[tiab] OR evolution*[tiab])",2026-11-19,9,9
+Q4 ortholog phase conservation,(circadian[tiab] OR diel[tiab] OR diurnal[tiab]) AND phase[tiab] AND ortholog*[tiab] AND conserv*[tiab],2026-11-19,14,14
+Q5 null model timing comparison,"(circadian[tiab] OR diel[tiab] OR diurnal[tiab]) AND (""null model""[tiab] OR permutation[tiab]) AND (phase[tiab] OR timing[tiab]) AND (species[tiab] OR ortholog*[tiab])",2026-11-19,2,2
+Q6 cross-species circadian transcriptome,"(circadian[tiab] OR diurnal[tiab]) AND transcriptom*[tiab] AND (""cross-species""[tiab] OR ""between species""[tiab] OR ""across species""[tiab])",2026-11-19,39,39
+Q7 rhythm detection reproducibility,"(circadian[tiab] OR rhythmic[tiab]) AND (reproducib*[tiab] OR repeatab*[tiab] OR replicat*[tiab]) AND (transcriptom*[tiab] OR ""gene expression""[tiab])",2026-11-19,187,187
+Q8 Synechococcus elongatus circadian transcriptome,"""Synechococcus elongatus""[tiab] AND circadian[tiab] AND (transcriptom*[tiab] OR microarray[tiab] OR ""RNA-seq""[tiab])",2026-11-19,5,5

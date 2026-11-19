@@ -1,0 +1,12 @@
+a,b,n_orthologs,best_shift_h,obs_mean_dphase_h,null_time_mean,p_time_null,null_marginal_mean,p_marginal_null,comparison
+SE7942_ito_WT,SE7942_vijayan,480,-1.0,1.38,4.78,0.0,5.54,0.0,WITHIN-STRAIN
+SE7942_ito_WT,SYN6803,146,-3.0,4.96,5.63,0.0,5.55,0.004,cross-lineage
+SE7942_ito_WT,TERY,376,-9.0,4.7,5.57,0.0,5.36,0.0,cross-lineage
+SE7942_ito_WT,MED4,475,-10.0,3.8,4.93,0.0,3.92,0.015,cross-lineage
+SE7942_ito_WT,NPUN,338,-11.0,4.86,5.35,0.09,5.37,0.007,cross-lineage
+SYN6803,TERY,200,-7.0,5.36,5.68,0.035,5.3,0.615,cross-lineage
+SYN6803,MED4,219,-11.0,4.48,5.14,0.06,4.22,1.0,cross-lineage
+SYN6803,NPUN,171,-4.0,4.88,5.4,0.035,5.54,0.002,cross-lineage
+TERY,MED4,488,1.0,4.54,5.11,0.115,4.52,0.652,cross-lineage
+TERY,NPUN,375,-1.0,5.3,5.44,0.305,5.7,0.007,cross-lineage
+MED4,NPUN,447,-4.0,5.32,4.35,0.875,5.48,0.002,cross-lineage

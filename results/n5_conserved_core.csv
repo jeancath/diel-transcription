@@ -1,0 +1,228 @@
+gene,n_rhythmic,phase_sd_h,phase_mean_h,ko_name
+K03217,4,0.11641961097948027,20.81432258036415,"yidC, spoIIIJ, OXA1, ccfA; YidC/Oxa1 family membrane protein insertase"
+K00928,3,0.3540623782683374,22.27374945407475,lysC; aspartate kinase [EC:2.7.2.4]
+K02687,4,0.5137255335267337,21.888211508260262,prmA; ribosomal protein L11 methyltransferase [EC:2.1.1.-]
+K02549,3,0.5841302248521554,22.52362434805431,menC; o-succinylbenzoate synthase [EC:4.2.1.113]
+K06287,4,0.6163617187745241,22.342430839278386,yhdE; nucleoside triphosphate pyrophosphatase [EC:3.6.1.-]
+K01923,3,0.6854074868195025,21.48902884776415,purC; phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2
+K06873,4,0.7932721063514262,21.855605660482095,K06873; uncharacterized protein
+K02503,4,0.9283270052498402,21.917816751940563,"HINT1_2, hinT, hit; histidine triad (HIT) family protein [EC:3.9.1.-]"
+K04518,5,0.9568034154871724,21.148167866232672,pheA2; prephenate dehydratase [EC:4.2.1.51]
+K01704,3,1.0368855766848455,21.708381932297716,"leuD, IPMI-S; 3-isopropylmalate/(R)-2-methylmalate dehydratase small sub"
+K00208,5,1.201823441411968,20.953652596093015,fabI; enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]
+K00789,5,1.2225008129946477,21.10166847916516,"metK, MAT; S-adenosylmethionine synthetase [EC:2.5.1.6]"
+K00099,4,1.2890107193137001,21.116527173196765,dxr; 1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:1.1.1.267]
+K01759,5,1.3804470602847936,19.971608890513348,"GLO1, gloA; lactoylglutathione lyase [EC:4.4.1.5]"
+K01256,4,1.4079613938099034,19.125308162907285,pepN; aminopeptidase N [EC:3.4.11.2]
+K00958,4,1.4247231841678873,21.327482935365886,"sat, met3; sulfate adenylyltransferase [EC:2.7.7.4]"
+K02435,3,1.4353825903380186,23.074842844478116,"gatC, GATC; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subun"
+K02535,3,1.4522894069946284,20.609489056503286,lpxC; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase [EC:3
+K03527,5,1.562975986839652,20.64908566530988,"ispH, lytB; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase [EC:1."
+K09775,3,1.5653044455363536,21.76501390301491,K09775; uncharacterized protein
+K00940,5,1.623663085335214,22.247223404424908,"ndk, NME; nucleoside-diphosphate kinase [EC:2.7.4.6]"
+K09022,3,1.6868408739642815,22.41597375254444,"ridA, tdcF, RIDA; 2-iminobutanoate/2-iminopropanoate deaminase [EC:3.5.9"
+K02111,4,1.7452999586773392,20.602222258100372,"ATPF1A, atpA; F-type H+/Na+-transporting ATPase subunit alpha [EC:7.1.2."
+K02372,5,1.777031378329952,21.428843896261945,fabZ; 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]
+K00762,3,1.9195749465660406,20.070575992822633,pyrE; orotate phosphoribosyltransferase [EC:2.4.2.10]
+K02528,3,1.9525545938747604,23.42725853727441,ksgA; 16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2
+K03465,4,1.9659426058195648,1.6591937370729544,"thyX, thy1; thymidylate synthase (FAD) [EC:2.1.1.148]"
+K02377,4,1.977995896465632,0.7196394672675035,"TSTA3, fcl; GDP-L-fucose synthase [EC:1.1.1.271]"
+K11325,4,2.0194691280285197,23.0353591327689,K11325; L-cysteine/cystine lyase
+K15633,5,2.033523919910548,22.553225432282602,"gpmI; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5."
+K16149,3,2.06148683831606,22.453289350709614,"K16149; 1,4-alpha-glucan branching enzyme [EC:2.4.1.18]"
+K23264,4,2.181180763558778,20.87731514849676,purS; phosphoribosylformylglycinamidine synthase subunit PurS [EC:6.3.5.
+K01515,3,2.213946666690742,20.208132269887066,nudF; ADP-ribose diphosphatase [EC:3.6.1.13 3.6.1.-]
+K01251,5,2.23576328917414,22.31630216396428,"AHCY, ahcY; adenosylhomocysteinase [EC:3.13.2.1]"
+K00975,4,2.2695541561405097,21.3004611573323,glgC; glucose-1-phosphate adenylyltransferase [EC:2.7.7.27]
+K06213,4,2.3192220399605428,22.64427521786423,mgtE; magnesium transporter
+K01262,3,2.3513525600513616,19.348156793092254,pepP; Xaa-Pro aminopeptidase [EC:3.4.11.9]
+K06206,3,2.3707065317508276,0.45582043690225255,sfsA; sugar fermentation stimulation protein A
+K00162,5,2.381010248484635,21.268025992433913,"PDHB, pdhB; pyruvate dehydrogenase E1 component subunit beta [EC:1.2.4.1"
+K01956,5,2.440141055763125,0.010817078255196852,"carA, CPA1; carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]"
+K09942,4,2.4429298904346677,20.16145338540107,K09942; uncharacterized protein
+K09761,3,2.443795245996509,23.89387215145029,rsmE; 16S rRNA (uracil1498-N3)-methyltransferase [EC:2.1.1.193]
+K13292,4,2.512765242956112,22.76601451719518,"lgt, umpA; phosphatidylglycerol---prolipoprotein diacylglyceryl transfer"
+K06173,5,2.52242066994059,18.972915306066312,"truA, PUS1; tRNA pseudouridine38-40 synthase [EC:5.4.99.12]"
+K11206,4,2.5540184907465524,23.05052046518978,"NIT1, ybeM; deaminated glutathione amidase [EC:3.5.1.128]"
+K03526,5,2.611850877934382,22.114869650982968,"gcpE, ispG; (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1."
+K27682,4,2.7041801569851276,22.438678709642424,CYP38; peptidylprolyl isomerase (cyclophilin 38) [EC:5.2.1.8]
+K06997,4,2.7081916808298963,23.671995828149733,"yggS, PROSC; PLP dependent protein"
+K02837,3,2.8202105060090332,23.323299429253186,prfC; peptide chain release factor 3
+K01519,3,2.8448435588657293,23.431683255414548,"rdgB, ITPA; XTP/dITP diphosphohydrolase [EC:3.6.1.66]"
+K00791,4,2.8624689926213396,18.896692350782118,"miaA, TRIT1; tRNA dimethylallyltransferase [EC:2.5.1.75]"
+K00847,5,2.8819759769146103,21.25075153131294,"E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]"
+K09763,4,2.8923189918176426,18.407722774825732,K09763; uncharacterized protein
+K03325,4,2.947507325747682,19.536443418094475,"ACR3, arsB; arsenite transporter"
+K02116,5,2.9872229986466023,22.27821118325371,atpI; ATP synthase protein I
+K01895,5,3.0166764736277196,1.0296969940310792,"ACSS1_2, acs; acetyl-CoA synthetase [EC:6.2.1.1]"
+K02825,3,3.0436067444176085,17.345178781768052,pyrR; pyrimidine operon attenuation protein / uracil phosphoribosyltrans
+K04042,5,3.0612955805334936,22.40116546848242,glmU; bifunctional UDP-N-acetylglucosamine pyrophosphorylase / glucosami
+K15744,3,3.0814881766033304,0.7049337086855169,Z-ISO; zeta-carotene isomerase [EC:5.2.1.12]
+K00761,3,3.0957883952815393,23.558807744101117,"upp, UPRT; uracil phosphoribosyltransferase [EC:2.4.2.9]"
+K00382,4,3.176507560943806,21.526164008355334,"DLD, lpd, pdhD; dihydrolipoyl dehydrogenase [EC:1.8.1.4]"
+K02434,5,3.2855552482573187,20.643161509741457,"gatB, PET112; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase sub"
+K25155,3,3.3243410221641576,22.2239125072666,evrB; viologen exporter family transport system permease protein
+K00297,3,3.372336220678325,22.812352983700915,"metF, MTHFR; methylenetetrahydrofolate reductase (NADH) [EC:1.5.1.54]"
+K14331,3,3.39975862871972,23.380774829571596,K14331; fatty aldehyde decarbonylase [EC:4.1.99.5]
+K01682,5,3.401273289673862,18.204907656745874,acnB; aconitate hydratase 2 / 2-methylisocitrate dehydratase [EC:4.2.1.3
+K10773,4,3.4039413561107885,18.48359174654943,"NTHL1, nth; endonuclease III [EC:3.2.2.- 4.2.99.18]"
+K00075,5,3.4219151242137698,2.7221521001825693,murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]
+K06381,3,3.4626253803515485,2.3798550781729997,spoIID; stage II sporulation protein D (peptidoglycan lytic transglycosy
+K03431,3,3.4868030200139506,2.6143217808649353,glmM; phosphoglucosamine mutase [EC:5.4.2.10]
+K01142,4,3.5491874298484603,22.354436501624505,"xthA, xth; exodeoxyribonuclease III [EC:3.1.11.2]"
+K09747,5,3.6610714677750718,22.387265328266345,ebfC; nucleoid-associated protein EbfC
+K09457,5,3.671835069580944,19.022345170026796,queF; 7-cyano-7-deazaguanine reductase [EC:1.7.1.13]
+K01147,5,3.8024492886447856,15.012219645548758,rnb; exoribonuclease II [EC:3.1.13.1]
+K01662,5,3.8064220619312414,23.622209987024824,dxs; 1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7]
+K07978,4,3.8387893103474457,20.87638352187729,plmA; GntR family transcriptional regulator
+K00859,4,3.85846595863082,21.081419777941537,coaE; dephospho-CoA kinase [EC:2.7.1.24]
+K00772,5,3.8654679262575207,21.159039732248303,"mtaP, MTAP; 5'-methylthioadenosine phosphorylase [EC:2.4.2.28]"
+K01619,3,3.8797373042743786,16.996410320875974,"deoC, DERA; deoxyribose-phosphate aldolase [EC:4.1.2.4]"
+K00988,4,3.882277472316564,19.44817857061693,APA1_2; sulfate adenylyltransferase (ADP) / ATP adenylyltransferase [EC:
+K01689,5,3.899910417392082,22.497093712691914,"ENO1_2_3, eno; enolase 1/2/3 [EC:4.2.1.11]"
+K01414,4,3.936755858740478,17.601062797885568,prlC; oligopeptidase A [EC:3.4.24.70]
+K06890,4,3.945484459135439,7.530795702807707,K06890; uncharacterized protein
+K00121,5,3.9523854753021235,19.92558116016024,"frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol d"
+K02834,4,3.9801214247998473,15.150175178832956,rbfA; ribosome-binding factor A
+K03177,3,4.037492636113676,17.865690265544576,"truB, PUS4, TRUB1; tRNA pseudouridine55 synthase [EC:5.4.99.25]"
+K05337,4,4.039143940940184,18.480128193119036,fer; ferredoxin
+K06183,3,4.067163390062015,21.69173577208898,rsuA; 16S rRNA pseudouridine516 synthase [EC:5.4.99.19]
+K00627,5,4.1201476850409025,23.50172218888931,"DLAT, aceF, pdhC; pyruvate dehydrogenase E2 component (dihydrolipoyllysi"
+K08998,4,4.129780250961273,20.697154809614037,K08998; uncharacterized protein
+K00954,3,4.151755013163496,16.298491637937136,"E2.7.7.3A, coaD, kdtB; pantetheine-phosphate adenylyltransferase [EC:2.7"
+K14441,4,4.17088840534308,18.019779784874338,rimO; ribosomal protein S12 methylthiotransferase [EC:2.8.4.4]
+K06941,4,4.1795741384325265,14.849520026767218,rlmN; 23S rRNA (adenine2503-C2)-methyltransferase [EC:2.1.1.192]
+K25137,3,4.183406030489268,21.58537722729026,rlmL; 23S rRNA (guanine2445-N2)-methyltransferase [EC:2.1.1.173]
+K05584,4,4.202240614969494,0.1355555145355043,ndhM; NAD(P)H-quinone oxidoreductase subunit M [EC:7.1.1.2]
+K06207,4,4.218358869643292,18.09680451592073,"typA, bipA; GTP-binding protein"
+K03801,4,4.357850296585649,6.1049783805145,lipB; lipoyl(octanoyl) transferase [EC:2.3.1.181]
+K03584,4,4.376772286304673,18.44018979629318,recO; DNA repair protein RecO (recombination protein O)
+K01724,4,4.400244105894771,11.671434188534004,"PCBD, phhB; 4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]"
+K28660,3,4.406323179597084,23.393791985359517,cugP; UTP---glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]
+K00088,4,4.420349587245521,23.179646194445443,"IMPDH, guaB; IMP dehydrogenase [EC:1.1.1.205]"
+K11991,3,4.441295021567835,14.83932691179683,tadA; tRNA(adenine34) deaminase [EC:3.5.4.33]
+K01255,4,4.443994666931557,18.85209729892152,"CARP, pepA; leucyl aminopeptidase [EC:3.4.11.1]"
+K00946,4,4.466174929282825,19.050546410699035,thiL; thiamine-monophosphate kinase [EC:2.7.4.16]
+K09919,4,4.52529031534168,23.895048215187504,K09919; uncharacterized protein
+K16787,3,4.536811622411139,22.725299333318354,ecfA2; energy-coupling factor transport system ATP-binding protein [EC:7
+K01000,4,4.5561063248662945,1.048271648169537,mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]
+K00605,4,4.561846870280631,21.789774901143,"gcvT, AMT; glycine cleavage system T protein (aminomethyltransferase) [E"
+K06158,4,4.566836015110696,21.03028421694119,"ABCF3; ATP-binding cassette, subfamily F, member 3"
+K05896,4,4.56719152908037,2.9890402961057516,scpA; segregation and condensation protein A
+K06024,3,4.587397206267975,23.619432126024375,scpB; segregation and condensation protein B
+K09748,3,4.6047284330151745,18.960596137540602,rimP; ribosome maturation factor RimP
+K01659,3,4.615039391931369,22.77806369098483,prpC; 2-methylcitrate synthase [EC:2.3.3.5]
+K07447,4,4.632712909566769,18.86146470354052,ruvX; putative pre-16S rRNA nuclease [EC:3.1.-.-]
+K03545,5,4.661861965269871,21.73184122480812,tig; trigger factor
+K01424,4,4.687907487282453,18.39001001253527,"E3.5.1.1, ansA, ansB; L-asparaginase [EC:3.5.1.1]"
+K01810,4,4.718929171652454,7.926013617417901,"GPI, pgi; glucose-6-phosphate isomerase [EC:5.3.1.9]"
+K06942,5,4.725479397208609,19.660487849144157,ychF; ribosome-binding ATPase
+K00759,4,4.748239315336089,19.148179472808927,"APRT, apt; adenine phosphoribosyltransferase [EC:2.4.2.7]"
+K03439,5,4.762582977075596,22.134825739900748,"trmB, METTL1, TRM8; tRNA (guanine-N7-)-methyltransferase [EC:2.1.1.33]"
+K02259,5,4.763827150577295,4.398571799497463,"COX15, ctaA; heme a synthase [EC:1.17.99.9]"
+K02860,4,4.847869609151614,18.811467448167985,rimM; 16S rRNA processing protein RimM
+K13038,5,4.871058259499263,16.03745897653556,"coaBC, dfp; phosphopantothenoylcysteine decarboxylase / phosphopantothen"
+K03596,4,4.889203788288914,21.355339379759847,lepA; GTP-binding protein LepA
+K06949,4,4.925474394359997,15.607114997386088,"rsgA, engC; ribosome biogenesis GTPase / thiamine phosphate phosphatase "
+K07042,5,4.953963792566804,20.850400050378198,"ybeY, yqfG; probable rRNA maturation factor"
+K20024,3,4.957290083637489,19.852363906619576,mgdE; monoglucosyldiacylglycerol epimerase [EC:5.1.3.34]
+K00943,4,4.959250556055201,18.792534822980752,"tmk, DTYMK; dTMP kinase [EC:2.7.4.9]"
+K02340,4,4.960529577471547,18.924237899850514,holA; DNA polymerase III subunit delta [EC:2.7.7.7]
+K02536,4,4.971766109725804,20.85037678131747,lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3
+K00748,3,4.974858127512241,15.077118198013913,lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]
+K02600,4,4.992520242469014,21.42980239138861,nusA; transcription termination/antitermination protein NusA
+K00161,5,5.000350388189372,22.85819308971553,"PDHA, pdhA; pyruvate dehydrogenase E1 component subunit alpha [EC:1.2.4."
+K03977,5,5.015196935820139,12.956632377848475,"engA, der; GTPase"
+K06168,5,5.048241232088187,21.00757881208261,"CDK5RAP1, miaB; tRNA-2-methylthio-N6-dimethylallyladenosine synthase [EC"
+K00464,5,5.0733987810184065,17.08249430365581,"diox1; all-trans-8'-apo-beta-carotenal 15,15'-oxygenase [EC:1.13.11.75]"
+K07657,3,5.0828006440415505,1.2901040092512726,"phoB; two-component system, OmpR family, phosphate regulon response regu"
+K02437,5,5.11095523937647,1.3986268827430852,"gcvH, GCSH; glycine cleavage system H protein"
+K00962,3,5.175694408097321,18.54259864210393,"pnp, PNPT1; polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]"
+K10026,4,5.214533063905935,14.735956226966929,queE; 7-carboxy-7-deazaguanine synthase [EC:4.3.99.3]
+K03218,3,5.236937616498421,20.068835815403652,rlmB; 23S rRNA (guanosine2251-2'-O)-methyltransferase [EC:2.1.1.185]
+K06217,4,5.264122477303106,22.187616726609214,"phoH, phoL; phosphate starvation-inducible protein PhoH and related prot"
+K07566,3,5.315055911780162,20.163677533495687,"tsaC, rimN, SUA5, YRDC; L-threonylcarbamoyladenylate synthase [EC:2.7.7."
+K03723,3,5.3203773342680885,18.478795110257874,mfd; transcription-repair coupling factor (superfamily II helicase) [EC:
+K00845,5,5.329400956276445,18.0929504128256,glk; glucokinase [EC:2.7.1.2]
+K05540,3,5.3347751016277485,20.81831557158321,dusB; tRNA-dihydrouridine synthase B [EC:1.-.-.-]
+K02188,3,5.389614511062789,17.03795567248115,cbiD; cobalt-precorrin-5B (C1)-methyltransferase [EC:2.1.1.195]
+K01950,3,5.395424151074876,17.966007815860806,"E6.3.5.1, NADSYN1, QNS1, nadE; NAD+ synthase (glutamine-hydrolysing) [EC"
+K03524,3,5.494206672219276,22.75259552920604,"birA; BirA family transcriptional regulator, biotin operon repressor / b"
+K04066,3,5.571761297563858,18.914986991462538,priA; primosomal protein N' (replication factor Y) (superfamily II helic
+K07056,4,5.637723376880558,15.4999295857125,rsmI; 16S rRNA (cytidine1402-2'-O)-methyltransferase [EC:2.1.1.198]
+K09710,5,5.652445610979948,15.611699364856905,ybeB; ribosome-associated protein
+K18890,3,5.679417103420631,20.637329209070646,"mdlB, smdB; ATP-binding cassette, subfamily B, multidrug efflux pump"
+K03589,4,5.728077937487031,2.7585360459614865,ftsQ; cell division protein FtsQ
+K16785,3,5.813456562227862,8.754366353439682,ecfT; energy-coupling factor transport system permease protein
+K00919,3,5.855918843883131,21.555607101566938,ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [EC:2.7.1.148]
+K00705,4,5.872088782057002,20.56374983628417,malQ; 4-alpha-glucanotransferase [EC:2.4.1.25]
+K14540,4,5.8752057377853255,19.276352844114264,rbgA; ribosome biogenesis GTPase A
+K25156,5,5.899660251171502,22.03066252765938,evrA; viologen exporter family transport system ATP-binding protein
+K06999,4,5.979820499641268,23.675418218050638,K06999; phospholipase/carboxylesterase
+K06864,4,6.004907523210832,19.131826185827066,"larE; cysteine-dependent pyridinium-3,5-bisthiocarboxylic acid mononucle"
+K09015,5,6.005588023309259,13.04820085470199,sufD; Fe-S cluster assembly protein SufD
+K03495,5,6.034973420147762,13.130681932652037,"gidA, mnmG, MTO1; tRNA uridine 5-carboxymethylaminomethyl modification e"
+K03438,4,6.083891594723277,2.347218740572999,"mraW, rsmH; 16S rRNA (cytosine1402-N4)-methyltransferase [EC:2.1.1.199]"
+K14330,4,6.168407382054035,0.6341127848478962,K14330; fatty aldehyde-generating acyl-ACP reductase [EC:1.2.1.80]
+K03437,3,6.185786799389619,1.737023940864393,"spoU; RNA methyltransferase, TrmH family"
+K03979,4,6.186803845489977,2.0793578136792514,"obgE, cgtA, MTG2; GTPase [EC:3.6.5.-]"
+K03587,4,6.191150996394928,19.054414088544156,ftsI; cell division protein FtsI (penicillin-binding protein 3) [EC:3.4.
+K01625,3,6.260671527698827,19.314426795611297,eda; 2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxogl
+K03625,4,6.418621916555811,16.426829356146342,nusB; transcription antitermination protein NusB
+K12574,4,6.433285372688471,20.221629933936743,rnj; ribonuclease J [EC:3.1.-.-]
+K07568,4,6.477258726409983,18.03330698527786,queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase [EC:2.4.99.
+K08316,5,6.592791522313694,16.72663402164482,rsmD; 16S rRNA (guanine966-N2)-methyltransferase [EC:2.1.1.171]
+K00566,4,6.620213085857342,13.729135524910394,"mnmA, trmU; tRNA-uridine 2-sulfurtransferase [EC:2.8.1.13]"
+K00942,4,6.655988625090595,15.148095545289102,"gmk, GUK1; guanylate kinase [EC:2.7.4.8]"
+K06940,4,6.824892628670492,10.056001269758049,K06940; uncharacterized protein
+K00901,5,6.989509251860257,17.350593741583815,"dgkA, DGK; diacylglycerol kinase (ATP) [EC:2.7.1.107]"
+K09931,4,7.085768724832884,21.098954493257356,K09931; uncharacterized protein
+K06911,4,7.144633784811422,8.907050784523232,"PIR; quercetin 2,3-dioxygenase [EC:1.13.11.24]"
+K06442,4,7.1498476589154665,2.561166802161224,tlyA; 23S rRNA (cytidine1920-2'-O)/16S rRNA (cytidine1409-2'-O)-methyltr
+K08641,4,7.205626428663401,13.283518014446283,vanX; zinc D-Ala-D-Ala dipeptidase [EC:3.4.13.22]
+K18979,5,7.445252972459577,10.821106677505847,queG; epoxyqueuosine reductase [EC:1.17.99.6]
+K01057,4,7.971935147943285,4.233332322233201,"PGLS, pgl, devB; 6-phosphogluconolactonase [EC:3.1.1.31]"
+K05810,4,8.135809849056233,23.502711224653137,"LACC1, yfiH; purine-nucleoside/S-methyl-5'-thioadenosine phosphorylase /"
+K23997,3,8.41031748977691,18.93369976409339,nnr; ADP-dependent NAD(P)H-hydrate dehydratase / NAD(P)H-hydrate epimera
+K07019,4,8.59919001635291,21.415381329936586,K07019; uncharacterized protein
+K00281,4,8.727278061480666,9.79345426192508,"GLDC, gcvP; glycine cleavage system P protein (glycine dehydrogenase) [E"
+K11145,4,8.832017743506851,21.6628699824873,mrnC; mini-ribonuclease III [EC:3.1.26.-]
+K02533,4,9.540651478443419,14.034293798324788,lasT; tRNA/rRNA methyltransferase [EC:2.1.1.-]
+K01633,5,10.389624728033366,0.5855169304475087,"folB; 7,8-dihydroneopterin aldolase/epimerase/oxygenase [EC:4.1.2.25 5.1"
+K00948,2,,,"PRPS, prsA; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]"
+K00991,2,,,ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7
+K01069,2,,,"gloB, gloC, HAGH; hydroxyacylglutathione hydrolase [EC:3.1.2.6]"
+K01094,2,,,"GEP4, pgpP; phosphatidylglycerophosphatase [EC:3.1.3.27]"
+K01139,2,,,"spoT; GTP diphosphokinase / guanosine-3',5'-bis(diphosphate) 3'-diphosph"
+K01770,2,,,"ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12"
+K01775,2,,,alr; alanine racemase [EC:5.1.1.1]
+K01776,2,,,murI; glutamate racemase [EC:5.1.1.3]
+K01934,2,,,MTHFS; 5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]
+K01935,2,,,bioD; dethiobiotin synthetase [EC:6.3.3.3]
+K02233,2,,,"E2.7.8.26, cobS, cobV; adenosylcobinamide-GDP ribazoletransferase [EC:2."
+K02483,2,,,"K02483; two-component system, OmpR family, response regulator"
+K03101,1,,,lspA; signal peptidase II [EC:3.4.23.36]
+K03113,2,,,"EIF1, SUI1; translation initiation factor 1"
+K03216,2,,,"trmL, cspR; tRNA (cytidine/uridine-2'-O-)-methyltransferase [EC:2.1.1.20"
+K03500,2,,,"rsmB, sun; 16S rRNA (cytosine967-C5)-methyltransferase [EC:2.1.1.176]"
+K03523,2,,,bioY; biotin transport system substrate-specific component
+K03529,1,,,smc; chromosome segregation protein
+K03555,2,,,mutS; DNA mismatch repair protein MutS
+K03650,2,,,"mnmE, trmE, MSS1; tRNA modification GTPase [EC:3.6.-.-]"
+K03664,2,,,smpB; SsrA-binding protein
+K03820,2,,,lnt; apolipoprotein N-acyltransferase [EC:2.3.1.269]
+K05585,2,,,ndhN; NAD(P)H-quinone oxidoreductase subunit N [EC:7.1.1.2]
+K05895,2,,,cobK-cbiJ; precorrin-6A/cobalt-precorrin-6A reductase [EC:1.3.1.54 1.3.1
+K06876,2,,,phrB; (6-4)DNA photolyase [EC:4.1.99.13]
+K06920,2,,,queC; 7-cyano-7-deazaguanine synthase [EC:6.3.4.20]
+K06925,2,,,tsaE; tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+K07071,2,,,K07071; uncharacterized protein
+K09121,2,,,"larC; pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel chelat"
+K14742,2,,,tsaB; tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+K16786,1,,,ecfA1; energy-coupling factor transport system ATP-binding protein [EC:7
+K18208,2,,,RNLS; renalase [EC:1.6.3.5]
+K18889,2,,,"mdlA, smdA; ATP-binding cassette, subfamily B, multidrug efflux pump"
+K22935,2,,,"XK1, psk; D-ribulokinase [EC:2.7.1.47]"
+K24180,2,,,mleP; malate permease and related proteins
+K25154,2,,,evrC; viologen exporter family transport system permease protein
+K25706,2,,,tsaD; tRNA N6-adenosine threonylcarbamoyltransferase [EC:2.3.1.234]

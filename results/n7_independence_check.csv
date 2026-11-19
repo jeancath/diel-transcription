@@ -1,0 +1,6 @@
+dataset,n_rhythmic,n_adjacent_pairs,mean_dphase_adjacent_h,mean_dphase_random_h,ratio,frac_adjacent_within_1h
+SE7942_ito_WT,1390,630,3.23,5.87,0.549,0.413
+SYN6803,1679,663,3.86,5.28,0.731,0.27
+TERY,2499,828,2.46,5.9,0.417,0.458
+MED4,1875,1110,1.13,1.59,0.71,0.593
+NPUN,3655,1469,2.35,5.77,0.408,0.589

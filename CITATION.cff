@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article (and this archive)."
+title: "Code and data for: Within-strain reproducibility sets the scale for cross-species comparison of diel transcriptional programs"
+authors:
+  - family-names: "Fathy"
+    given-names: "Melad Naieem"
+    orcid: "https://orcid.org/0009-0002-4553-8894"
+    affiliation: "Independent researcher"
+version: "1.0.0"
+date-released: "2026-11-19"
+license: ["MIT", "CC-BY-4.0"]
+repository-code: "https://github.com/jeancath/diel-transcription"
+keywords: [cyanobacteria, diel transcriptional program, circadian output, cross-species comparison, permutation null, KEGG Orthology, reciprocal best hits, reproducibility]
+# DOI: added after the Zenodo release (RULES.md §7). Cite the VERSION DOI in the paper and here;
+# use the CONCEPT DOI for the README badge. Do not invent either.
